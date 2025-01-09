@@ -1,9 +1,12 @@
 from dotenv import load_dotenv
 import os
 
+# Load environment variables from the .env file
 load_dotenv()
 
 class Config:
-    TWITTER_USERNAME = "@gauravverma9795"
-    TWITTER_PASSWORD = "sdgg@1234"
-    MONGO_URI = "mongodb+srv://gauravverma9795:jftI3CuPEWaqO0Bk@cluster0.umizl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    TWITTER_USERNAME = os.getenv("TWITTER_USERNAME")
+    TWITTER_PASSWORD = os.getenv("TWITTER_PASSWORD")
+    PROXYMESH_USERNAME = os.getenv("PROXYMESH_USERNAME")
+    PROXYMESH_PASSWORD = os.getenv("PROXYMESH_PASSWORD")
+    MONGO_URI = os.getenv("MONGO_URI")
