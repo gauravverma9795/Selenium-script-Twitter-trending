@@ -11,7 +11,7 @@ A web application that scrapes and displays the top 5 trending topics on Twitter
 - Simple web interface to trigger scraping
 ## Trending data stores in MongoDB 
 
-![Screenshot 2025-01-01 230417]([[https://github.com/user-attachments/assets/9e5d0941-0ce2-4177-9998-0ab96fec2d8b](https://github.com/gauravverma9795/Selenium-script-Twitter-trending/blob/main/Screenshot%202025-01-10%20014829.png?raw=true)](https://github.com/gauravverma9795/Selenium-script-Twitter-trending/blob/main/Screenshot%202025-01-10%20014829.png?raw=true))
+![Screenshot 2025-01-01 230417](https://github.com/gauravverma9795/Selenium-script-Twitter-trending/blob/db29f9e4c23adc7e11a449181b49a4e02bed14e8/Screenshot%202025-01-10%20014829.png)
 
 
 ## Trending data renders on UI
