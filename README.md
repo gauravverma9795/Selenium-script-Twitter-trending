@@ -34,8 +34,8 @@ https://youtu.be/7Lnnc9IVIMg?si=USoFukdCd7EfO5zy
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/twitter-trends-scraper.git
-cd twitter-trends-scraper
+git clone https://github.com/gauravverma9795/Selenium-script-Twitter-trending.git
+cd Web-Scrapping-Twitter-Trending-main
 ```
 
 ### 2. Create Virtual Environment
