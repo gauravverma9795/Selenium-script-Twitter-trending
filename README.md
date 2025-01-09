@@ -19,9 +19,7 @@ A web application that scrapes and displays the top 5 trending topics on Twitter
 ![Screenshot 2025-01-01 223002](https://github.com/gauravverma9795/Selenium-script-Twitter-trending/blob/6d04ee0b0903b2a34e8b6984f0511804f9ddfacf/Screenshot%202025-01-10%20014859.png)
 
 
-## Demo Video 
 
-https://youtu.be/7Lnnc9IVIMg?si=USoFukdCd7EfO5zy
 
 
 ## Prerequisites
